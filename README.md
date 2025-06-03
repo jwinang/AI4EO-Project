@@ -1,4 +1,5 @@
 # AI4EO-Project
+Video: https://youtu.be/kNviSbtWKXk?si=sQQhGX1qHGBkIKHF
 ---
 
 # 💧 Detection of Inland Water Bodies Using Machine Learning
