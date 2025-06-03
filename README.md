@@ -1,6 +1,4 @@
 # AI4EO-Project
-Video link：替换
-
 ---
 
 # 💧 Detection of Inland Water Bodies Using Machine Learning
@@ -19,6 +17,16 @@ Video link：替换
 ## 📌 About The Project
 
 This project investigates the use of unsupervised machine learning — specifically **K-means clustering** — to classify **inland water bodies** in satellite imagery obtained from **SENTINEL-2**. Two regions with vastly different water characteristics are examined: **Selin Lake** in the Tibetan Plateau, and the **Finland Lake District**. The goal is to evaluate whether machine learning can enhance or outperform traditional remote sensing indices such as the **NDWI (Normalized Difference Water Index)** in complex hydrological conditions.
+<table>
+  <tr>
+    <td><img src="image/finland lake district.jpg" alt="Finland Lake District" width="100%"></td>
+    <td><img src="image/siling lake.jpg" alt="Siling Lake" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Finland Lake District</strong></td>
+    <td align="center"><strong>Seling Lake </strong></td>
+  </tr>
+</table>
 
 ---
 
