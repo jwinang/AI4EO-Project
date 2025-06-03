@@ -24,7 +24,7 @@ This project investigates the use of unsupervised machine learning — specifica
   </tr>
   <tr>
     <td align="center"><strong>Finland Lake District</strong></td>
-    <td align="center"><strong>Seling Lake </strong></td>
+    <td align="center"><strong>Selin Lake </strong></td>
   </tr>
 </table>
 
