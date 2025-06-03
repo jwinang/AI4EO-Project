@@ -14,14 +14,11 @@ Video link：替换
 * [Problem Statement](#problem-statement)
 * [Environmental Cost Assessment](#environmental-cost-assessment)
 * [Datasets Used](#datasets-used)
-* [Results](#results)
-* [References](#references)
-
 ---
 
 ## 📌 About The Project
 
-This project investigates the use of unsupervised machine learning — specifically **K-means clustering** — to classify **inland water bodies** in satellite imagery obtained from **SENTINEL-2**. Two regions with vastly different water characteristics are examined: **Selin Co** in the Tibetan Plateau, and the **Finnish Lakeland**. The goal is to evaluate whether machine learning can enhance or outperform traditional remote sensing indices such as the **NDWI (Normalized Difference Water Index)** in complex hydrological conditions.
+This project investigates the use of unsupervised machine learning — specifically **K-means clustering** — to classify **inland water bodies** in satellite imagery obtained from **SENTINEL-2**. Two regions with vastly different water characteristics are examined: **Selin Lake** in the Tibetan Plateau, and the **Finland Lake District**. The goal is to evaluate whether machine learning can enhance or outperform traditional remote sensing indices such as the **NDWI (Normalized Difference Water Index)** in complex hydrological conditions.
 
 ---
 
@@ -115,15 +112,8 @@ To obtain the datasets:
 
 ---
 
-## 📊 Results
-
-* **NDWI vs K-Means**: In both regions, K-means matched or exceeded NDWI performance, especially in **fragmented** or **sediment-rich** conditions.
-* **Visual Evaluation**: K-means was better at discriminating complex boundaries in small lakes (Finnish Lakeland) and sediment-rich rivers (Selin Co).
-* **Limitations**: Without ground truth labels, evaluation relies on qualitative analysis and NDWI comparison.
-
----
-
 ## 👩‍💻 Author
 
 This project was developed as part of the final assignment for the AI4EO at UCL.
+
 
